@@ -8,3 +8,5 @@ def subtract(a, b):
 def multiply(a,b):
   return a*b
 
+def multiplygit(a,b):
+  return a/b
